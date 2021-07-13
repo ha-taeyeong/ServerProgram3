@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1617557294,,"wq"
+|2,0,1626146879,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,250 @@
 # Registers:
 
 # File marks:
-'0  1  0  /c/exam/.git/MERGE_MSG
-|4,48,1,0,1617557294,"/c/exam/.git/MERGE_MSG"
-'1  1  0  /c/exam/.git/MERGE_MSG
-|4,49,1,0,1617389986,"/c/exam/.git/MERGE_MSG"
-'2  1  0  /c/exam/.git/MERGE_MSG
-|4,50,1,0,1617369520,"/c/exam/.git/MERGE_MSG"
-'3  1  0  /c/exam/.git/MERGE_MSG
-|4,51,1,0,1617369520,"/c/exam/.git/MERGE_MSG"
+'0  1  0  /c/install/projectC/.git/MERGE_MSG
+|4,48,1,0,1626146879,"/c/install/projectC/.git/MERGE_MSG"
+'1  1  0  /c/install/exam/.git/MERGE_MSG
+|4,49,1,0,1626071493,"/c/install/exam/.git/MERGE_MSG"
+'2  1  0  /c/install/exam/.git/MERGE_MSG
+|4,50,1,0,1626070873,"/c/install/exam/.git/MERGE_MSG"
+'3  4  0  /c/install/exam/.git/MERGE_MSG
+|4,51,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+'4  4  0  /c/install/exam/.git/MERGE_MSG
+|4,52,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+'5  4  0  /c/install/exam/.git/MERGE_MSG
+|4,53,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+'6  4  0  /c/install/exam/.git/MERGE_MSG
+|4,54,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+'7  6  0  /c/install/exam/.git/MERGE_MSG
+|4,55,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+'8  6  0  /c/install/exam/.git/MERGE_MSG
+|4,56,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+'9  6  0  /c/install/exam/.git/MERGE_MSG
+|4,57,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
 
 # Jumplist (newest first):
--'  1  0  /c/exam/.git/MERGE_MSG
-|4,39,1,0,1617557294,"/c/exam/.git/MERGE_MSG"
--'  1  0  /c/exam/.git/MERGE_MSG
-|4,39,1,0,1617389986,"/c/exam/.git/MERGE_MSG"
--'  1  0  /c/exam/.git/MERGE_MSG
-|4,39,1,0,1617369520,"/c/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/projectC/.git/MERGE_MSG
+|4,39,1,0,1626146879,"/c/install/projectC/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626071493,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626071493,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626070873,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626070873,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  4  0  /c/install/exam/.git/MERGE_MSG
+|4,39,4,0,1626069791,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626069779,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626069779,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  6  0  /c/install/exam/.git/MERGE_MSG
+|4,39,6,0,1626069399,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  3  0  /c/install/exam/.git/MERGE_MSG
+|4,39,3,0,1626069397,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626069388,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626069388,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626068600,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/install/exam/.git/MERGE_MSG
+|4,39,1,0,1626068600,"/c/install/exam/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/homework/.git/MERGE_MSG
+|4,39,1,0,1625488706,"/c/homework/.git/MERGE_MSG"
+-'  1  0  /c/install/work/.git/MERGE_MSG
+|4,39,1,0,1624115601,"/c/install/work/.git/MERGE_MSG"
+-'  1  0  /c/install/work/.git/MERGE_MSG
+|4,39,1,0,1624115601,"/c/install/work/.git/MERGE_MSG"
+-'  1  0  /c/install/work/.git/MERGE_MSG
+|4,39,1,0,1624115601,"/c/install/work/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> /c/install/projectC/.git/MERGE_MSG
+	*	1626146877	0
+	"	1	0
+
+> /c/install/exam/.git/MERGE_MSG
+	*	1626071491	0
+	"	1	0
+
+> /c/homework/.git/MERGE_MSG
+	*	1625488696	0
+	"	1	0
+
+> /c/install/work/.git/MERGE_MSG
+	*	1624115599	0
+	"	1	0
+
+> ~/.git/MERGE_MSG
+	*	1624109092	0
+	"	1	0
 
 > /c/exam/.git/MERGE_MSG
 	*	1617557291	0
